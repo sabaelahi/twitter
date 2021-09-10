@@ -1,0 +1,90 @@
+
+.tweet-logo{
+    width: 40px;
+}
+.font-18{
+    font-size: 18px;
+}
+.font-16{
+    font-size: 16px;
+}
+.font-14{
+    font-size: 14px;
+}
+.img-profile{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.img-profile2{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.rtl { direction: rtl}
+.ltr { direction: ltr}
+.rounded-50{
+    border-radius: 50px;
+}
+textarea:focus{
+    outline: 0 !important;
+}
+.bg-light-2{
+    background-color: #f1f1f1a3;
+}
+.w-90{
+    width: 90% !important;
+}
+.min-height-200{
+    min-height: 115px;
+    height: auto;
+    max-height: 900px;
+}
+.hr-7{
+    height: 7px;
+    background-color: #bfbfbf;
+    border: none;
+}
+
+.textarea{
+    border: 0 none;
+    outline: none;
+    width:50%
+}
+.text-light-2{
+    color: #a5a5a5;
+}
+.ScrollbarsCustom-ThumbY{
+    background: #bfbfbf !important;
+}
+.pointer {
+    cursor: pointer;
+}
+.scroll-left{
+    height: 300px;
+    overflow-y: scroll;
+}
+.whiteSpace{
+    overflow: hidden !important;
+    white-space: nowrap !important;
+    text-overflow: ellipsis !important;
+}
+.scroll-right{
+    height: 300px;
+    overflow-y: scroll;
+}
+
+@media only screen and (max-width: 800px) {
+    .nav-col{
+        position: fixed !important;
+        z-index: 5000;
+        right: 10%;
+        width: 20%;
+        background: gray;
+    }
+}
+@media only screen and (min-width: 800px) {
+    .nav-col{
+
+    }
+}

@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "name": "tomhardi",
+      "id": "@Tom_Hardi",
+      "img": "/images/tomhardi.jpg"
+    },
+    {
+      "name": "Steve Jobs",
+      "id": "@Steve__Jobs",
+      "img": "/images/member.jpg"
+    },
+    {
+      "name": "emma watson",
+      "id": "@Emma_watson",
+      "img": "/images/emma.jpg"
+    }
+  ],
+  "hashTags": [
+    "پرچم_دار",
+    "روزنامه",
+    "اثر مرکب",
+    "خانواده"
+  ],
+  "tweets": [
+    {
+      "sender": {
+        "name": "tomhardi",
+        "id": "@Tom_Hardi",
+        "img": "/images/tomhardi.jpg"
+      },
+      "text": "بخش میانی هم اول چن تا توییت داغ که خیلی لایک خوردن بعدم لیست توییت ها به ترتیب زمان توییتشون",
+      "like": 5
+    },
+    {
+      "sender": {
+        "name": "Steve Jobs",
+        "id": "@Steve__Jobs",
+        "img": "/images/member.jpg"
+      },
+      "text": "بخش میانی هم اول چن تا توییت داغ که خیلی لایک خوردن بعدم لیست توییت ها به ترتیب زمان توییتشون",
+      "like": 10
+    },
+    {
+      "sender": {
+        "name": "emma watson",
+        "id": "@Emma_watson",
+        "img": "/images/emma.jpg"
+      },
+      "text": "بخش میانی هم اول چن تا توییت داغ که خیلی لایک خوردن بعدم لیست توییت ها به ترتیب زمان توییتشون",
+      "like": 256
+    },
+    {
+      "id": 966,
+      "sender": {
+        "name": "test",
+        "id": "@test",
+        "img": "/images/tomhardi.jpg"
+      },
+      "text": "زیزسیزسیزسی",
+      "like": 5
+    },
+    {
+      "id": 398,
+      "sender": {
+        "name": "test",
+        "id": "@test",
+        "img": "/images/tomhardi.jpg"
+      },
+      "text": "test",
+      "like": 5
+    }
+  ]
+}
